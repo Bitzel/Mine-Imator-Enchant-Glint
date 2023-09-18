@@ -1,5 +1,7 @@
 hi bitzel here
 
+[DOWNLOAD HERE](https://github.com/Bitzel/Mine-Imator-Enchant-Glint/releases/download/minecraft/MI_Enchants.zip)
+
 __how to use this:__
 
 **ITEMS:**
