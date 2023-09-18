@@ -5,7 +5,7 @@ hi bitzel here
 __how to use this:__
 
 **ITEMS:**
-1. Drag the item you want to use into Mine-Imator
+1. Drag the item sheet you want to use into Mine-Imator
 
 2.   Select the "Item sheet" image-type and click OK
 
