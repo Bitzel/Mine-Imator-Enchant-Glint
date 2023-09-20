@@ -28,4 +28,5 @@ glint should now be working. Loop as needed :)
 2.   Steve is now in your project. You can change his Skin and model under 'library'
 in project properties, or parent the desired armor pieces to another character.
 They will look weirdly scaled. That's just how they're supposed to look. 
-It's how they look in game. Loop keyframes as needed : )
+It's how they look in game. Type "glint" into timeline search to loop keyframes as
+needed : )
